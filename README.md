@@ -1,4 +1,4 @@
-# Welcome to Sagarmatha fullstak exercise
+# Product store
  * For this exercise you will need NodeJS and NPM installed on you computer.
 
 ## Scenario
